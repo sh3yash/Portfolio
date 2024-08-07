@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/sh3yash/Portfolio/static/css/main.148ed21a.css",
+    "main.js": "/sh3yash/Portfolio/static/js/main.dbe5f57b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/sh3yash/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/sh3yash/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/suicide.png": "/sh3yash/Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/sh3yash/Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/shoping.jpeg": "/sh3yash/Portfolio/static/media/shoping.c20a396941001b9f429a.jpeg",
+    "static/media/clothing.jpeg": "/sh3yash/Portfolio/static/media/clothing.b0fe36e73367d0fdc582.jpeg",
+    "static/media/home-main.svg": "/sh3yash/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/sh3yash/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/emotion1.jpg": "/sh3yash/Portfolio/static/media/emotion1.6b00aeaae8d8c1613caf.jpg",
+    "static/media/Yash_Resume1.pdf": "/sh3yash/Portfolio/static/media/Yash_Resume1.afd7fd5fb0d72f325b0a.pdf",
+    "static/media/farmer.jpg": "/sh3yash/Portfolio/static/media/farmer.86374722885001a45b01.jpg",
+    "static/media/student.jpg": "/sh3yash/Portfolio/static/media/student.f450a7fb4591bb915d2b.jpg",
+    "static/media/home-bg.jpg": "/sh3yash/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/payment.png": "/sh3yash/Portfolio/static/media/payment.bff9a9c6751b616c240d.png",
+    "static/media/avatar.svg": "/sh3yash/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/food.jpeg": "/sh3yash/Portfolio/static/media/food.ce63cb20ff509a5961e9.jpeg",
+    "static/media/pre.svg": "/sh3yash/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/sh3yash/Portfolio/index.html",
+    "main.148ed21a.css.map": "/sh3yash/Portfolio/static/css/main.148ed21a.css.map",
+    "main.dbe5f57b.js.map": "/sh3yash/Portfolio/static/js/main.dbe5f57b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/sh3yash/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/sh3yash/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.148ed21a.css",
+    "static/js/main.dbe5f57b.js"
+  ]
+}
